@@ -1,5 +1,12 @@
-## Hi there 👋
+# Andrés González
 
+Studying computer science at Tec de Monterrey · 2029
+
+---
+
+Español (native), English (C2)
+
+---
 <!--
 **andrewgzz/andrewgzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
