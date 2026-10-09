@@ -2,7 +2,7 @@
 
 Studying computer science at Tec de Monterrey · 2029
 
-[E-mail](emailto:andres.gzzmor@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andresgzzmor)
+[E-mail](mailto:andres.gzzmor@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andresgzzmor)
 
 ---
 
